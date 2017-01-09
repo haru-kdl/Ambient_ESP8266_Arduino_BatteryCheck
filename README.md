@@ -4,4 +4,6 @@
 * 放電機
 
 これらを組み合わせ、バッテリーの放電状況をグラフ表示してみました。
-ESP8266を Master側に、Arduinoを Slave側にしてI2C通信を行います。
+
+![ブレッドボード](./Ambient_BatteryCheck.png)
+![ambientグラフ](./Ambient-BatteryCheck.jpg)
